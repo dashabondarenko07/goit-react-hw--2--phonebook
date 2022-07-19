@@ -3,7 +3,7 @@ import { Component } from 'react';
 import { Filter } from './Filter/Filter';
 import { ContactForm } from './ContactForm/ContactForm';
 import { ContactList } from './ContactList/ContactList';
-import { Box } from './App.sptled';
+import { Box } from './App.styled';
 
 export class App extends Component {
   state = {
